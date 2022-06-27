@@ -1,4 +1,4 @@
-### Salvee, eu sou o Borges! 🙋🏻‍♂️
+### Salvee, bão?? Sou o Borges! ツ
 
 <div align="center">
   <a href="https://github.com/henriqueborgesdev">
