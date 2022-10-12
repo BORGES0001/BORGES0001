@@ -13,7 +13,7 @@
   <img align="center" alt="Borges-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Borges-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Borges-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-  <img align="right" alt="Borges-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/906515583749726233/971859785261658182/5F0D2E34-FA2C-4D44-9CB5-6CEF9E1BB822.gif">
+  <img align="right" alt="Borges-pic" height="150" style="border-radius:50px;" 
 </div>
   
   ##
