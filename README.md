@@ -1,9 +1,9 @@
 ### 
 
 <div align="center">
-  <a href="https://github.com/henriqueborgesdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueborgesdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueborgesdev&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/BORGES0001">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BORGES0001&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BORGES0001&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Borges-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
