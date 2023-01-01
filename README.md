@@ -80,7 +80,7 @@ Tecnologias para Internet II
 ```kotlin
 object **Borges </Henrique>** {
  val iLove = "EU AMO"
- val acknowledgements = "Isadora Sperandio 🌸."
+ val lady = "🌸 Isadora Sperandio."
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf( "JavaScript", "HTML", "CSS", "LUA") 
