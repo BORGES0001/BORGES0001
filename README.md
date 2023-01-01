@@ -14,7 +14,7 @@
 </span></li></ol></nav></div> <div class="curriculum__content" data-v-6068afaf><h1 class="z-title z-title--size-large" data-v-6068afaf>
 QUEBRADA GROUP
 </h1> 
-Atualmente estou estudando para um projeto pessoal, aprimorando minhas habilidades e as exercendo no meu próprio servidor FIVEM de GTA V.<h1>
+Atualmente estou estudando para um projeto pessoal, aprimorando minhas habilidades e as exercendo no meu próprio servidor FIVEM.<h1>
 A grade curricular que irei frequentar está abaixo:
 </h1>
 </p> <div class="curriculum__disciplines-list-container" data-v-6068afaf><ul class="curriculum__disciplines-list" data-v-6068afaf><li class="curriculum__disciplines-item" data-v-6068afaf>
@@ -80,7 +80,7 @@ Tecnologias para Internet II
 ```kotlin
 object **Borges </Henrique>** {
  val iLove = "EU AMO"
- val acknowledgements = "Isadora Sperandio."
+ val acknowledgements = "Isadora Sperandio 🌸."
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf( "JavaScript", "HTML", "CSS", "LUA") 
@@ -108,8 +108,8 @@ object **Borges </Henrique>** {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borges0001&theme=dark&show_icons=true)
 
-[website]: https://quebradacity.com/
-[youtube]: https://www.youtube.com/quebradacity/
+[website]: https://loja.quebradacity.com
+[youtube]: https://www.youtube.com/@quebradarp9483/featured
 [instagram]: https://www.instagram.com/borges.ntc/
 [discord]: https://discord.com/invite/quebradacity
 <br>
