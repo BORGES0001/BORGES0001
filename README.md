@@ -121,5 +121,5 @@ object **Borges </Henrique>** {
 📷 [instagram][instagram] **|** 
 🤖 [discord][discord] **|** 
 
-The End brooo 👋
+The End broo 👋
 
