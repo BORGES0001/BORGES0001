@@ -8,11 +8,11 @@
 
 - 😉 &nbsp; Sempre explorando novas tecnologias e desenvolvimentos, em busca de um novo aprendizado.
 - 🎓 &nbsp; Estudo **Administração, Gestão Comercial e Defesa Cibernética**
-- 💼 &nbsp; Trabalhando como **CEO & DEV** na <a href="https://discord.gg/quebradacity">QuebradaCity</a>
+- 💼 &nbsp; Trabalhando como **DEV** na <a href="https://discord.gg/cariberoleplay">CaribeRoleplay</a>
 - 👨‍🏫 &nbsp; Aprendendo mais sobre **TypeScript**.
 
 </span></li></ol></nav></div> <div class="curriculum__content" data-v-6068afaf><h1 class="z-title z-title--size-large" data-v-6068afaf>
-QUEBRADA GROUP
+FIVEM
 </h1> 
 Atualmente estou estudando para um projeto pessoal, aprimorando minhas habilidades e as exercendo no meu próprio servidor FIVEM.<h1>
 A grade curricular que irei frequentar está abaixo:
@@ -108,10 +108,10 @@ object **Borges </Henrique>** {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borges0001&theme=dark&show_icons=true)
 
-[website]: https://loja.quebradacity.com
-[youtube]: https://www.youtube.com/@quebradarp9483/featured
+[website]: https://loja.cariberoleplay.com
+[youtube]: https://www.youtube.com/channel/UCkTg3dXK_lgFhpzvfKfKzZw
 [instagram]: https://www.instagram.com/borges.ntc/
-[discord]: https://discord.com/invite/quebradacity
+[discord]: https://discord.com/invite/cariberoleplay
 <br>
 
 #### Rede Sociais!
