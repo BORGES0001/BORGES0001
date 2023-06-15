@@ -7,7 +7,7 @@
 <h3> :v: &nbsp;Sobre mim </h3>
 
 - 😉 &nbsp; Sempre explorando novas tecnologias e desenvolvimentos, em busca de um novo aprendizado.
-- 🎓 &nbsp; Estudo **Administração, Gestão Comercial e Defesa Cibernética**
+- 🎓 &nbsp; Estudo **Engenharia de Software**
 - 💼 &nbsp; Trabalhando como **DEV** na <a href="https://discord.gg/cariberoleplay">CaribeRoleplay</a>
 - 👨‍🏫 &nbsp; Aprendendo mais sobre **TypeScript**.
 
