@@ -8,7 +8,7 @@
 
 - 😉 &nbsp; Sempre explorando novas tecnologias e desenvolvimentos, em busca de um novo aprendizado.
 - 🎓 &nbsp; Estudo **Engenharia de Software**
-- 💼 &nbsp; Trabalhando como **DEV** na <a href="https://discord.gg/cariberoleplay">CaribeRoleplay</a>
+- 💼 &nbsp; Trabalhando como **DEV** na <a href="https://discord.gg/cariberoleplay">QuebradaRoleplay</a>
 - 👨‍🏫 &nbsp; Aprendendo mais sobre **TypeScript**.
 
 </span></li></ol></nav></div> <div class="curriculum__content" data-v-6068afaf><h1 class="z-title z-title--size-large" data-v-6068afaf>
