@@ -1,6 +1,6 @@
 ## 💛 Opa, bão?? Meu nome é <strong>{Borges}!</strong>
 
-<img src="https://media.discordapp.net/attachments/1019008363041935412/1059037084217790536/computer-illustration_teste.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="[https://media.discordapp.net/attachments/1019008363041935412/1059037084217790536/computer-illustration_teste.png](https://media.discordapp.net/attachments/1185244067450331136/1508625068966543440/e8d9ab86312fb6128476176cde3ef836.jpg?ex=6a163815&is=6a14e695&hm=e567922fe53bc1e6f136399940f941a5adbada72217853c1d66f9415638cae07&=&format=webp)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ![](https://komarev.com/ghpvc/?username=borges0001&color=006bed)
 
@@ -58,7 +58,7 @@ Segurança da Informação
 Sistemas Distribuídos
 </li></ul></div>
 
-## <img width="45" alt="about" src="https://media.discordapp.net/attachments/906515583749726233/1147905739688529921/revu.png?width=466&height=465"> Parceiro de estudos
+## <img width="45" alt="about" src="[https://media.discordapp.net/attachments/906515583749726233/1147905739688529921/revu.png?width=466&height=465](https://media.discordapp.net/attachments/1185244067450331136/1508625159261786132/17f919de5cb80176d8fd86ecc72c43f4.jpg?ex=6a16382a&is=6a14e6aa&hm=d1d78020c0db711208e4fb0a94064509a8216d965d83e9f3e4497e4694633f79&=&format=webp)"> 
 
 <img align="right" width="300" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" />
 
